@@ -2,10 +2,12 @@
 	"type": "module",
 	"name": "@intrnl/xxhash64",
 	"description": "xxHash64 implementation in JavaScript",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "intrnl",
 	"license": "MIT",
-	"repository": "https://github.com/intrnl/js-xxhash64",
+	"repository": {
+		"url": "https://github.com/intrnl/js-xxhash64"
+	},
 	"files": ["src/"],
 	"main": "src/index.js"
 }
